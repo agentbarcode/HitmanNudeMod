@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+  "version": "0.1.0",
+  "id": "AgentBarcode.HitmanNudeMod",
+  "name": "Hitman Nude Mod",
+  "description": "This mod adds nudity to the game.",
+  "authors": ["AgentBarcode"],
+  "frameworkVersion": "2.33.40",
+  "contentFolders": ["content"],
+  "updateCheck": "https://github.com/agentbarcode/HitmanNudeMod/releases/latest/download/updates.json"
+}

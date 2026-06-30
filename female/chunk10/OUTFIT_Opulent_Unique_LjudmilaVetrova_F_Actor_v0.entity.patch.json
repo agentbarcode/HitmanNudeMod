@@ -3,10 +3,7 @@
 	"tbluHash": "00DD4CC03B522E2C",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"6c6625674d8e27c9",
-				{ "RemovePropertyByName": "m_pMeshResource" }
-			]
+			"SubEntityOperation": ["6c6625674d8e27c9", { "RemovePropertyByName": "m_pMeshResource" }]
 		},
 		{
 			"SubEntityOperation": [
@@ -14,10 +11,7 @@
 				{
 					"PatchArrayPropertyValue": [
 						"m_aBodyParts",
-						[
-							{ "RemoveItemByValue": "899be7e957782fbe" },
-							{ "RemoveItemByValue": "2326e85c2d883ca4" }
-						]
+						[{ "RemoveItemByValue": "899be7e957782fbe" }, { "RemoveItemByValue": "2326e85c2d883ca4" }]
 					]
 				}
 			]

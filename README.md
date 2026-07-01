@@ -2,7 +2,7 @@
 
 This mod adds nudity to the game.
 
-[Install](https://hitman-resources.netlify.app/smf-install-link/https://github.com/agentbarcode/HitmanNudeMod/releases/latest/download/AgentBarcode.HitmanNudeMod.zip) | [Download](https://github.com/agentbarcode/HitmanNudeMod/releases/latest/download/AgentBarcode.HitmanNudeMod.zip)
+[Install](https://hitman-resources.netlify.app/smf-install-link/https://github.com/agentbarcode/temp/releases/latest/download/AgentBarcode.HitmanNudeMod.zip) | [Download](https://github.com/agentbarcode/temp/releases/latest/download/AgentBarcode.HitmanNudeMod.zip)
 
 ---
 

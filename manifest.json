@@ -6,7 +6,7 @@
 	"description": "This mod adds nudity to the game.",
 	"authors": ["AgentBarcode"],
 	"frameworkVersion": "2.33.40",
-	"updateCheck": "https://github.com/agentbarcode/HitmanNudeMod/releases/latest/download/updates.json",
+	"updateCheck": "https://github.com/agentbarcode/temp/releases/latest/download/updates.json",
 	"options": [
 		{
 			"enabledByDefault": true,

@@ -1,0 +1,21 @@
+{
+	"tempHash": "00537D16B5CE7286",
+	"tbluHash": "00F2E4A932ECAA63",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"fc9817abdc35780a",
+				{
+					"SetPropertyValue": {
+						"property_name": "Texture2D_01",
+						"value": {
+							"resource": "[assembly:/_pro/characters/assets/_sourcefiles/male_reg/textures/male_reg_body.texture?/diffuse_a.tex](ascolormap).pc_tex",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

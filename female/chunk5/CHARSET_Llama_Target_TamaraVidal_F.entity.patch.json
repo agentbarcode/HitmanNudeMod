@@ -1,0 +1,21 @@
+{
+	"tempHash": "00B7628C0D52C586",
+	"tbluHash": "00A83BE102534FD9",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"7e99d274fe547a5b",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_Outfit",
+						"value": {
+							"resource": "[assembly:/_pro/characters/templates/llama/char_llama_unique.template?/outfit_llama_target_tamaravidal_f_actor_v1.entitytemplate].pc_entitytemplate",
+							"flag": "9F"
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

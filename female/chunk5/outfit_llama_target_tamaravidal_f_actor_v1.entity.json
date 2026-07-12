@@ -223,12 +223,7 @@
 				},
 				"m_aBodyParts": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"e45b3cd66675f5e8",
-						"f9de37c0ac9dc0fa",
-						"4e3a8a05a2a18c02",
-						"cafeae9110d6e1d4"
-					],
+					"value": ["e45b3cd66675f5e8", "f9de37c0ac9dc0fa", "4e3a8a05a2a18c02", "cafeae9110d6e1d4"],
 					"postInit": true
 				}
 			}

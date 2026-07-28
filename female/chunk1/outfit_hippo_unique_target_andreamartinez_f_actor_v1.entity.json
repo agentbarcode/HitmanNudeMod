@@ -131,11 +131,7 @@
 				},
 				"m_aBodyParts": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"ae00e47ec1fdd190",
-						"fb5f5c6abbee3206",
-						"cafe1c21c2020c13"
-					],
+					"value": ["ae00e47ec1fdd190", "fb5f5c6abbee3206", "cafe1c21c2020c13"],
 					"postInit": true
 				}
 			}

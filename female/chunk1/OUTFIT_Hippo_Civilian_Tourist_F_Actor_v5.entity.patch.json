@@ -37,10 +37,7 @@
 							{ "RemoveItemByValue": "9830ce2ff2bdcd59" },
 							{ "RemoveItemByValue": "f6d7895fe15a5479" },
 							{
-								"AddItemAfter": [
-									"3dba0b8755bdaa42",
-									"cafe3c3385423cdb"
-								]
+								"AddItemAfter": ["3dba0b8755bdaa42", "cafe3c3385423cdb"]
 							},
 							{ "RemoveItemByValue": "9c2a714ae2e9d846" }
 						]

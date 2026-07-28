@@ -14,10 +14,7 @@
 							{ "RemoveItemByValue": "f59256c56826143f" },
 							{ "RemoveItemByValue": "593e4a8f0aa263e0" },
 							{
-								"AddItemAfter": [
-									"66bddb14f77f27be",
-									"cafef46bb9d1ff68"
-								]
+								"AddItemAfter": ["66bddb14f77f27be", "cafef46bb9d1ff68"]
 							},
 							{ "RemoveItemByValue": "de1bc7d3bf5848e8" }
 						]

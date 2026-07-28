@@ -12,10 +12,7 @@
 							{ "RemoveItemByValue": "92ed299d276a659a" },
 							{ "RemoveItemByValue": "d6902f16d7fc45e5" },
 							{
-								"AddItemBefore": [
-									"d6902f16d7fc45e5",
-									"cafe0549ad63b582"
-								]
+								"AddItemBefore": ["d6902f16d7fc45e5", "cafe0549ad63b582"]
 							},
 							{ "RemoveItemByValue": "eea8ba3959c1b0c5" },
 							{ "RemoveItemByValue": "31cb46c23ff4d6fd" },

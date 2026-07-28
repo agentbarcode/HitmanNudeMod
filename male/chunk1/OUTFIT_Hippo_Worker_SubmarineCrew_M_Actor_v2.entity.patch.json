@@ -1,0 +1,42 @@
+{
+	"tempHash": "00F4E3E8EB385E16",
+	"tbluHash": "006BE865937C6F08",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"a1df08ddc72699bf",
+				{
+					"PatchArrayPropertyValue": [
+						"m_aBodyParts",
+						[
+							{ "RemoveItemByValue": "468c4b55a71dcbfb" },
+							{ "RemoveItemByValue": "54524dad0c21f773" },
+							{ "RemoveItemByValue": "167f18b32d7135e4" },
+							{ "RemoveItemByValue": "b6a73875e831e981" },
+							{ "RemoveItemByValue": "5e196c6e4c8ee7e2" },
+							{ "RemoveItemByValue": "92736ffe54379402" },
+							{
+								"AddItemAfter": [
+									"a4c5cadb15b6fb03",
+									"cafe52333e6b1632"
+								]
+							}
+						]
+					]
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe52333e6b1632",
+				{
+					"parent": "a1df08ddc72699bf",
+					"name": "Body_Full",
+					"factory": "[assembly:/_pro/characters/templates/_part_library/male_parts/male_reg_bodyparts.template?/body_full.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/characters/templates/_part_library/male_parts/male_reg_bodyparts.template?/body_full.entitytemplate].pc_entityblueprint"
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

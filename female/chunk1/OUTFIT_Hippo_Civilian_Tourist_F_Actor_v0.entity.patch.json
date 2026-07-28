@@ -1,0 +1,64 @@
+{
+	"tempHash": "001366BF93F25CBB",
+	"tbluHash": "003C99CD90F7FF99",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"1c6fc701b72ef6aa",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": 1.524591349520256
+							},
+							"position": {
+								"x": -7.558228015899658,
+								"y": -0.7318270206451416,
+								"z": 0.0
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"1c6fc701b72ef6aa",
+				{
+					"PatchArrayPropertyValue": [
+						"m_aBodyParts",
+						[
+							{ "RemoveItemByValue": "a538b24aa2159430" },
+							{ "RemoveItemByValue": "8b5c192c78d1d26b" },
+							{ "RemoveItemByValue": "0c17a7076d6e7d7d" },
+							{ "RemoveItemByValue": "7197aba897cc4067" },
+							{ "RemoveItemByValue": "91569779a7ad542f" },
+							{
+								"AddItemAfter": [
+									"99565b6396c3fb0c",
+									"cafe24c3725c0b16"
+								]
+							},
+							{ "RemoveItemByValue": "b75f25b1fb09c879" }
+						]
+					]
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe24c3725c0b16",
+				{
+					"parent": "1c6fc701b72ef6aa",
+					"name": "Fem_Reg_Body",
+					"factory": "[assembly:/_pro/characters/templates/_part_library/fem_parts/fem_reg_bodyparts.template?/fem_reg_body.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/characters/templates/_part_library/fem_parts/fem_reg_bodyparts.template?/fem_reg_body.entitytemplate].pc_entityblueprint"
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

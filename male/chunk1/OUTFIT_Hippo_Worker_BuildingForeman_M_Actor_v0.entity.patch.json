@@ -11,7 +11,10 @@
 						[
 							{ "RemoveItemByValue": "1ddae7d23bbcc4c0" },
 							{
-								"AddItemBefore": ["05efa02192c30dd9", "cafef5153cde51a2"]
+								"AddItemBefore": [
+									"05efa02192c30dd9",
+									"cafec3559eb11888"
+								]
 							},
 							{ "RemoveItemByValue": "4f97a9d62bb1b5ff" },
 							{ "RemoveItemByValue": "c7d54ffdb9a59ca9" },
@@ -23,7 +26,7 @@
 		},
 		{
 			"AddEntity": [
-				"cafef5153cde51a2",
+				"cafec3559eb11888",
 				{
 					"parent": "7b97dff72902eec0",
 					"name": "Body_Full",

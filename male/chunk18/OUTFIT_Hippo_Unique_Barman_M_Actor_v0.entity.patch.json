@@ -1,24 +1,24 @@
 {
-	"tempHash": "006CAE9B961101B7",
-	"tbluHash": "008939867853C99F",
+	"tempHash": "008163A7E5816B1C",
+	"tbluHash": "00AC13B08DC8B2B4",
 	"patch": [
 		{
 			"SubEntityOperation": [
-				"54ba1e2db1f6b4cf",
+				"19561f2bc86f00d2",
 				{
 					"PatchArrayPropertyValue": [
 						"m_aBodyParts",
 						[
-							{ "RemoveItemByValue": "546c840ee6276f6d" },
-							{ "RemoveItemByValue": "ad0948f085d8e8c2" },
-							{ "RemoveItemByValue": "6545512ad1206101" },
-							{ "RemoveItemByValue": "611f8c4fccfd1089" },
-							{ "RemoveItemByValue": "bb80084ab92e62c0" },
-							{ "RemoveItemByValue": "85d68305ae5c23d4" },
+							{ "RemoveItemByValue": "92ed299d276a659a" },
+							{ "RemoveItemByValue": "d6902f16d7fc45e5" },
+							{ "RemoveItemByValue": "eea8ba3959c1b0c5" },
+							{ "RemoveItemByValue": "31cb46c23ff4d6fd" },
+							{ "RemoveItemByValue": "70a193447bc9d936" },
+							{ "RemoveItemByValue": "aab3d353a909db1b" },
 							{
-								"AddItemBefore": [
-									"ad0948f085d8e8c2",
-									"cafe74dd02671ac9"
+								"AddItemAfter": [
+									"469f5ec906611c87",
+									"cafebb78698ac5c7"
 								]
 							}
 						]
@@ -28,9 +28,9 @@
 		},
 		{
 			"AddEntity": [
-				"cafe74dd02671ac9",
+				"cafebb78698ac5c7",
 				{
-					"parent": "54ba1e2db1f6b4cf",
+					"parent": "19561f2bc86f00d2",
 					"name": "Body_Full",
 					"factory": "[assembly:/_pro/characters/templates/_part_library/male_parts/male_reg_bodyparts.template?/body_full.entitytemplate].pc_entitytype",
 					"blueprint": "[assembly:/_pro/characters/templates/_part_library/male_parts/male_reg_bodyparts.template?/body_full.entitytemplate].pc_entityblueprint"

@@ -6,4 +6,4 @@ This mod adds nudity to the game.
 
 ---
 
-`AgentBarcode.HitmanNudeMod` v0.4.0, by AgentBarcode. This README was automatically generated from the mod's manifest.
+`AgentBarcode.HitmanNudeMod` v0.4.1, by AgentBarcode. This README was automatically generated from the mod's manifest.
